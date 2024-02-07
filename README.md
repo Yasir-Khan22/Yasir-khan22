@@ -1,4 +1,4 @@
-> Hi! 👋 My name is Yasir; I am currently a student of BS. Computer Science &  has been in programming for 4 years. I have about 2 years of experience  doing Front-end development on personal projects.
+> Hi! 👋 My name is Yasir; I am currently a student of BS. Computer Science &  has been in programming for 4 years. I have about 2 years of experience doing Front-end development on personal projects.
 
 - 😎 A passionate developer on a mission to build ***Quality*** digital products.
 - 😉 An avid reader of **Accessibility** and've keen interest in making digital products accessible.
