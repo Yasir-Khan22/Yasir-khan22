@@ -8,7 +8,7 @@
 My current tech stack includes:
 
 - Javascript, Python
-- Next.js/Vite.js + Typescript
-- Redux/Redux-toolkit
+- Next.js, Vite.js + Typescript
+- Redux, Redux-toolkit
 - Tailwind CSS + Styled-components
 - 🌝
