@@ -1,4 +1,4 @@
-> Yasir Here:
+> Yasir here:
 
 - 😎 A passionate developer on a mission to build ***Quality*** digital products.
 - 😉 An avid reader of **Accessibility** and've keen interest in making digital products accessible.
