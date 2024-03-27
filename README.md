@@ -11,4 +11,3 @@ My current tech stack includes:
 - React.js, Django, Next.js, Flask.
 - Redux, Redux-toolkit.
 - Tailwind CSS + Styled-components.
-- 🌝
