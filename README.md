@@ -3,11 +3,13 @@
 - 😎 A passionate developer on a mission to build ***Quality*** digital products.
 - 😉 An avid reader of **Accessibility** and've keen interest in making digital products accessible.
 - 🍃 I center my life around topics like DSA, Web Designing, and of course Javascript, React, Typescript.
-- 🐦 I mostly stay awake at [LinkedIn](https://www.linkedin.com/in/khanzada22/), [Facebook](https://www.facebook.com/YasirKhanzada22/).
+- 🐦 I mostly stay awake at:
+  - <b>[LinkedIn](https://www.linkedin.com/in/khanzada22/)</b>
+  - <b>[Facebook](https://www.facebook.com/YasirKhanzada22/) </b>
 
 My current tech stack includes:
 
-- Javascript, Python, Typescript.
-- React.js, Django, Next.js, Flask.
-- Redux, Redux-toolkit.
-- Tailwind CSS + Styled-components.
+> JavaScript, Python, TypeScript. <br>
+> React.js, Django, Next.js, Flask. <br>
+> Redux, Redux-toolkit. <br>
+> Tailwind CSS + Styled-components.
