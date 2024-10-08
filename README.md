@@ -9,7 +9,7 @@
 
 My current tech stack includes:
 
-> JavaScript, Python, TypeScript. <br>
-> React.js, Django, Next.js, Flask. <br>
+> JavaScript, TypeScript, Reactjs, Nextjs <br>
+> Python, Django, Django-rest-framework, Flask. <br>
 > Redux, Redux-toolkit. <br>
 > Tailwind CSS + Styled-components.
